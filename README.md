@@ -7,4 +7,4 @@
  
  bert 모델로 뉴스 본문이 어떤 카테고리에 해당하는지 분류 시켜준다. 
 
-![image](main (2).png)
+![image](main.png)
